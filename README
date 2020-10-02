@@ -1,0 +1,13 @@
+To compile the code
+
+make
+
+To run the interpreter
+
+./bf
+
+To run the generator
+
+./generate
+
+A sample code is provided in the file code. Copy and Paste it into the interpreter to get a welcome message
